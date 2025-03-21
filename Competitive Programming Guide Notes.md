@@ -38,13 +38,17 @@ Algorithms [13]
 
 - arithmetic progression
 - geometric progression
-  **_Set theory:_**
+
+**_Set theory:_**
+
 - intersection
 - union
 - complement
 - difference
 - subsets
-  **_Logic expressions:_**
+
+**_Logic expressions:_**
+
 - Which are either true or false evaluated on the symbols below
 - negation
 - conjunction
@@ -54,15 +58,19 @@ Algorithms [13]
 - predicate
 - quantifier
 - Image has the first 5 of the symbols
-  ![logic-exp.png](Images/logic-exp.png)
-  **_Functions:_**
+
+![logic-exp.png](Images/logic-exp.png)
+
+**_Functions:_**
+
 - floor (rounds down)
 - ceiling functions (rounds up)
 - min and max functions
 - factorials
 - Fibonacci number
 - Binet's formula
-  **_Logarithms:_**
+
+**_Logarithms:_**
 
 ```
 - logk(ab) = logk(a) + logk(b)
@@ -131,7 +139,8 @@ for (int i = 1; i <= n; i++) {
 
 - Depends on the number of times the function is called and the time complexity of the the single call. The total time complexity is the product of these values
 - Example below:
-  ![Recursion-time-complexity.png](Images/Recursion-time-complexity.png)
+
+![Recursion-time-complexity.png](Images/Recursion-time-complexity.png)
 
 ### Complexity Classes
 
@@ -159,7 +168,8 @@ for (int i = 1; i <= n; i++) {
 ### Estimating Efficiency
 
 - By calculating the time complexity of an algorithm, it is possible to check, before implementing the algorithm, that it is efficient enough for the problem
-  ![estimating-efficiency-slide.png](Images/estimating-efficiency-slide.png)
+
+![estimating-efficiency-slide.png](Images/estimating-efficiency-slide.png)
 
 ### Maximum Subarray Sum Example
 
@@ -247,6 +257,7 @@ cout << best << "\n";
 ```
 
 **_Efficiency Comparison_**
+
 ![efficiency-compare.png](Images/efficiency-compare.png)
 
 # Chapter 3 Sorting (Page 35 - Page ?)
